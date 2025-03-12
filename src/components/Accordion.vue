@@ -131,7 +131,7 @@ export default {
   position: relative;
   overflow: hidden;
   min-height: 500px;
-  flex: 1;  /* Устанавливаем начальную ширину элементов */
+  flex: 1;
 }
 
 .accordion__content {
